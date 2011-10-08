@@ -9,5 +9,4 @@ Put Macaroni.tmLanguage into the packages/C++ directory. This is a copy of the C
 
 Put Macaroni.sublime-settings and Macaroni.sublime-build into Packages/User.
 
-
-
+NOTE: To build you'll need to have macaroni in your %PATH%.
