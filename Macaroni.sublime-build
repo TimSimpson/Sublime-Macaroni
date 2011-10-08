@@ -1,0 +1,5 @@
+{
+	"cmd": ["macaroni", "generate", "build", "test", "install"],
+	"selector" : "source.macaroni",
+	"file_regex": "^\\s*(.*)\\(([0-9]+)\\) : "
+}
