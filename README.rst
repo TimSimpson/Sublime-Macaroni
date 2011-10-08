@@ -9,4 +9,4 @@ Put Macaroni.tmLanguage into the packages/C++ directory. This is a copy of the C
 
 Put Macaroni.sublime-settings and Macaroni.sublime-build into Packages/User.
 
-NOTE: To build you'll need to have macaroni in your %PATH%.
+NOTE: To build you'll need to have macaroni in your %PATH%, along with anything Macaroni might invoke to actually build the project. Right now the regular expressions look for output coming from MSVC++, not GNU. I'll have to add that soon.
