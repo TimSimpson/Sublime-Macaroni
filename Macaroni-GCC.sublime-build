@@ -1,0 +1,5 @@
+{
+    "cmd": ["echo", "'Sorry, but this isn't finished yet.'"],
+    "selector" : "source.macaroni",
+    "file_regex": "^\\s*(.*)\\(([0-9]+)\\) : "
+}
